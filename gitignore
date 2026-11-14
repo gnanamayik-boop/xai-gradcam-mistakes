@@ -1,0 +1,8 @@
+# large or regenerable files
+results/explanations/
+results/deletion/
+results/checkpoint.pt
+results/sanity_maps.npz
+*.npy
+.ipynb_checkpoints/
+__pycache__/

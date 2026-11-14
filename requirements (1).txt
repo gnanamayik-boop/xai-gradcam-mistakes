@@ -1,0 +1,13 @@
+# Tested on Google Colab (T4 GPU). Run `pip freeze` in Colab and replace
+# the unpinned lines below with exact versions if you want a strict lock.
+torch==2.14.1
+torchvision==0.29.1
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+matplotlib
+tabulate
+grad-cam
+captum
